@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_google_android_gms_fonts_certs">@null</string-array>
+    <array name="preloaded_fonts">
+        <item>@font/roboto</item>
+    </array>
+</resources>
